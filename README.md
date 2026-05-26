@@ -1,6 +1,5 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:24/05/2026
 # Register no:212223060137(Logeshwari R)
 ## Aim
 To develop a prompt-based application using ChatGPT — To demonstrate how prompt engineering can be used to create a Study Time Scheduler that helps students plan subjects, generate study timetables, avoid overlap, and improve productivity.
